@@ -15,11 +15,25 @@ For 2020
 - Feb In Hoffa's Shadow 
 - Mar 雪国
 - Apr Poor Charlie
-- May Intelligent Investor
-- Jun Eccentric Glamour
-- Jul Guns, Germs, and Steel
-- Aug Being Mortal
-- Sep Terror In the Mind of God
-- Oct Little Prince 
-- Nov The Moon and Sixpence
+- May Win Bigly 
+- Jun Influence
+- Jul Hero of the Empire 
+- Aug Intelligent Investor
+- Sep Eccentric Glamour
+- Oct Guns, Germs, and Steel
+- Nov The Graven Palm
+- Dec The Birth of Tragedy
+
+For 2021 
+- Jan Being Mortal
+- Feb Terror In the Mind of God
+- Mar Little Prince 
+- Apr The Moon and Sixpence
+- May 我是猫
+- Jun Principles
+- Jul 人间词话
+- Aug Titan
+- Sep The Selfish Gene
+- Oct The Inevitable
+- Nov Destiny of the Republic
 - Dec 挪威的森林

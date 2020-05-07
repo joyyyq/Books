@@ -1,4 +1,3 @@
-# Munger
 ## Talk One: Harvard School Commencement Speech June 13, 1986
 ### Carson's prescription for sure misery included:
 1. Ingesting chemicals in an effort to alter mood or perception; 

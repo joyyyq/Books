@@ -19,22 +19,22 @@ For 2020
 - Mar 雪国
 - Apr Poor Charlie
 - May Win Bigly 
-- Jun Influence
+- Jun Computer Systems: A Programmer's Perspective 
 - Jul Big Debt Crises
 - Aug Intelligent Investor
 - Sep Atomic Habits
-- Oct Hero of the Empire 
+- Oct Influence
 - Nov The Graven Palm
 - Dec The Birth of Tragedy
 
 For 2021 
-- Jan Being Mortal
+- Jan Hero of the Empire 
 - Feb Learning from the Germans: Race and the Memory of Evil
 - Mar Little Prince 
 - Apr Your Beauty Mark: The Ultimate Guide to Eccentric Glamour
 - May Guns, Germs, and Steel
 - Jun Principles
-- Jul Terror In the Mind of God
+- Jul Being Mortal
 - Aug Titan: The Life of John D. Rockefeller, Sr.
 - Sep The Selfish Gene
 - Oct The Inevitable
@@ -54,4 +54,19 @@ For 2022
 - Oct Can't Hurt Me: Master Your Mind and Defy the Odds
 - Nov The Tiger
 - Dec 挪威的森林
+
+For 2023
+- Jan Terror In the Mind of God
+- Feb Born a Crime: Stories from a South African Childhood
+- Mar F.I.A.S.C.O.
+- Apr Ice Age 
+- May The Autobiography of Benjamin Franklin 
+- Jun Keeping At It: The Quest for Sound Money and Good Government
+- Jul The Changing World Order: Why Nations Succeed and Fail
+- Aug Margaret Thatcher: At Her Zenith: In London, Washington and Moscow 
+- Sep Margaret Thatcher: Herself Alone
+- Oct Thunderstruck
+- Nov The Nurture Assumption: Why Children Turn Out the Way They Do
+- Dec The Fifth Discipline: The Art & Practice of The Learning Organization
+
 

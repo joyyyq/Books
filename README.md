@@ -22,7 +22,7 @@ For 2020
 - Jun Computer Systems: A Programmer's Perspective 
 - Jul Big Debt Crises
 - Aug Intelligent Investor
-- Sep Atomic Habits
+- Sep A First Course to Probability 
 - Oct Influence
 - Nov The Graven Palm
 - Dec The Birth of Tragedy
@@ -53,7 +53,7 @@ For 2022
 - Sep The Boys in the Boat
 - Oct Can't Hurt Me: Master Your Mind and Defy the Odds
 - Nov The Tiger
-- Dec 挪威的森林
+- Dec Atomic Habits
 
 For 2023
 - Jan Terror In the Mind of God

@@ -21,8 +21,8 @@ For 2020
 - May Win Bigly 
 - Jun Computer Systems: A Programmer's Perspective 
 - Jul Big Debt Crises
-- Aug Intelligent Investor
-- Sep A First Course to Probability 
+- Aug A First Course to Probability 
+- Sep The Changing World Order: Why Nations Succeed and Fail
 - Oct Influence
 - Nov The Graven Palm
 - Dec The Birth of Tragedy
@@ -46,7 +46,7 @@ For 2022
 - Feb Margaret Thatcher: From Grantham to the Falklands
 - Mar My Early Life
 - Apr The Moon and Sixpence
-- May 我是猫
+- May Intelligent Investor
 - Jun Becoming
 - Jul 人间词话
 - Aug City of Thieves

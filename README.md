@@ -22,10 +22,10 @@ For 2020
 - Jun Computer Systems: A Programmer's Perspective 
 - Jul Kernighan & Ritchie "The C Programming Language" 
 - Aug A First Course to Probability 
-- Sep The Changing World Order: Why Nations Succeed and Fail
+- Sep Clean Code: A Handbook of Agile Software Craftsmanship
 - Oct Influence
 - Nov Big Debt Crises
-- Dec The Birth of Tragedy
+- Dec The Changing World Order: Why Nations Succeed and Fail
 
 For 2021 
 - Jan Hero of the Empire 
@@ -68,5 +68,19 @@ For 2023
 - Oct Thunderstruck
 - Nov The Nurture Assumption: Why Children Turn Out the Way They Do
 - Dec The Fifth Discipline: The Art & Practice of The Learning Organization
+
+For 2024
+- Jan The Birth of Tragedy
+- Feb 我是猫
+- Mar 人间词话
+- Apr A Higher Loyalty
+- May When I Stop Talking, You'll Know I'm Dead
+- Jun 
+- Jul 
+- Aug 
+- Sep
+- Oct
+- Nov 
+- Dec 
 
 

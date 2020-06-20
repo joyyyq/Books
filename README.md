@@ -20,11 +20,11 @@ For 2020
 - Apr Poor Charlie
 - May Win Bigly 
 - Jun Computer Systems: A Programmer's Perspective 
-- Jul Big Debt Crises
+- Jul Kernighan & Ritchie "The C Programming Language" 
 - Aug A First Course to Probability 
 - Sep The Changing World Order: Why Nations Succeed and Fail
 - Oct Influence
-- Nov The Graven Palm
+- Nov Big Debt Crises
 - Dec The Birth of Tragedy
 
 For 2021 
@@ -48,7 +48,7 @@ For 2022
 - Apr The Moon and Sixpence
 - May Intelligent Investor
 - Jun Becoming
-- Jul 人间词话
+- Jul The Graven Palm
 - Aug City of Thieves
 - Sep The Boys in the Boat
 - Oct Can't Hurt Me: Master Your Mind and Defy the Odds

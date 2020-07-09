@@ -20,11 +20,11 @@ For 2020
 - Apr Poor Charlie
 - May Win Bigly 
 - Jun Computer Systems: A Programmer's Perspective 
-- Jul Kernighan & Ritchie "The C Programming Language" 
+- Jul Clean Code: A Handbook of Agile Software Craftsmanship
 - Aug A First Course to Probability 
-- Sep Clean Code: A Handbook of Agile Software Craftsmanship
+- Sep Kernighan & Ritchie "The C Programming Language" 
 - Oct Influence
-- Nov Big Debt Crises
+- Nov Mental Models 
 - Dec The Changing World Order: Why Nations Succeed and Fail
 
 For 2021 
@@ -38,7 +38,7 @@ For 2021
 - Aug Titan: The Life of John D. Rockefeller, Sr.
 - Sep The Selfish Gene
 - Oct The Inevitable
-- Nov Destiny of the Republic
+- Nov Big Debt Crises
 - Dec Andrew Carnegie
 
 For 2022
@@ -71,16 +71,16 @@ For 2023
 
 For 2024
 - Jan The Birth of Tragedy
-- Feb 我是猫
-- Mar 人间词话
+- Feb Why We Sleep 
+- Mar Daring Greatly 
 - Apr A Higher Loyalty
 - May Infinite Powers: How Calculus Reveals the Secrets of the Universe
-- Jun 
-- Jul 
-- Aug 
-- Sep
-- Oct
-- Nov 
-- Dec 
+- Jun Competing Against Luck 
+- Jul Destiny of the Republic
+- Aug 21 Lessons for the 21st Century
+- Sep Thinking Fast and Slow
+- Oct 罗生门
+- Nov 人间词话
+- Dec 我是猫
 
 

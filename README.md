@@ -14,31 +14,31 @@ the special circumstances of 2020, I choose to prioritize my time a little bit t
 It's set to be private at the start. Not sure if I will ever make this public. Let's see if I can fulfill my 22-year-old goal. 
 
 For 2020
-- Jan 生而贫穷
-- Feb In Hoffa's Shadow 
-- Mar 雪国
-- Apr Poor Charlie
-- May Win Bigly 
-- Jun Computer Systems: A Programmer's Perspective 
-- Jul Clean Code: A Handbook of Agile Software Craftsmanship
-- Aug A First Course to Probability 
-- Sep Kernighan & Ritchie "The C Programming Language" 
-- Oct Influence
-- Nov Mental Models 
-- Dec The Changing World Order: Why Nations Succeed and Fail
+- Jan 生而贫穷 :white_check_mark:
+- Feb In Hoffa's Shadow :white_check_mark:
+- Mar 雪国 :white_check_mark:
+- Apr Poor Charlie :white_check_mark:
+- May Win Bigly :white_check_mark:
+- Jun Computer Systems: A Programmer's Perspective half :white_check_mark:
+- Jul Clean Code: A Handbook of Agile Software Craftsmanship half :white_check_mark:
+- Aug A First Course to Probability :white_check_mark:
+- Sep Influence half :white_check_mark:
+- Oct Atomic Habits :white_check_mark:
+- Nov Hero of the Empire :white_check_mark:
+- Dec Kernighan & Ritchie "The C Programming Language"
 
 For 2021 
-- Jan Hero of the Empire 
-- Feb Learning from the Germans: Race and the Memory of Evil
+- Jan Mental Models
+- Feb Big Debt Crises
 - Mar Little Prince 
 - Apr Your Beauty Mark: The Ultimate Guide to Eccentric Glamour
 - May Guns, Germs, and Steel
 - Jun Principles
-- Jul Being Mortal
+- Jul Learning from the Germans: Race and the Memory of Evil
 - Aug Titan: The Life of John D. Rockefeller, Sr.
 - Sep The Selfish Gene
 - Oct The Inevitable
-- Nov Big Debt Crises
+- Nov The Changing World Order: Why Nations Succeed and Fail
 - Dec Andrew Carnegie
 
 For 2022
@@ -53,7 +53,7 @@ For 2022
 - Sep The Boys in the Boat
 - Oct Can't Hurt Me: Master Your Mind and Defy the Odds
 - Nov The Tiger
-- Dec Atomic Habits
+- Dec Being Mortal
 
 For 2023
 - Jan Terror In the Mind of God

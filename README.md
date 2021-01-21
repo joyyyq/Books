@@ -29,7 +29,7 @@ For 2020
 
 For 2021 
 - Jan Mental Models
-- Feb Big Debt Crises
+- Feb Big Debt Crises :white_check_mark:
 - Mar Little Prince 
 - Apr Your Beauty Mark: The Ultimate Guide to Eccentric Glamour
 - May Guns, Germs, and Steel

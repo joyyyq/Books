@@ -25,11 +25,11 @@ For 2020
 - Sep Influence half :white_check_mark:
 - Oct Atomic Habits :white_check_mark:
 - Nov Hero of the Empire :white_check_mark:
-- Dec Kernighan & Ritchie "The C Programming Language"
+- Dec Never Eat Alone :white_check_mark:
 
 For 2021 
-- Jan Mental Models
-- Feb Big Debt Crises :white_check_mark:
+- Jan Big Debt Crises :white_check_mark:
+- Feb Mental Models
 - Mar Little Prince 
 - Apr Your Beauty Mark: The Ultimate Guide to Eccentric Glamour
 - May Guns, Germs, and Steel
@@ -73,7 +73,7 @@ For 2024
 - Jan The Birth of Tragedy
 - Feb Why We Sleep 
 - Mar Daring Greatly 
-- Apr A Higher Loyalty
+- Apr Dark Money
 - May Infinite Powers: How Calculus Reveals the Secrets of the Universe
 - Jun Competing Against Luck 
 - Jul Destiny of the Republic
@@ -83,4 +83,5 @@ For 2024
 - Nov 人间词话
 - Dec 我是猫
 
-
+Others
+- Kernighan & Ritchie "The C Programming Language"

@@ -29,9 +29,9 @@ For 2020
 
 For 2021 
 - Jan Big Debt Crises :white_check_mark:
-- Feb Mental Models
+- Feb Competing Against Luck :white_check_mark:
 - Mar Little Prince 
-- Apr Your Beauty Mark: The Ultimate Guide to Eccentric Glamour
+- Apr Mental Models
 - May Guns, Germs, and Steel
 - Jun Principles
 - Jul Learning from the Germans: Race and the Memory of Evil
@@ -75,7 +75,7 @@ For 2024
 - Mar Daring Greatly 
 - Apr Dark Money
 - May Infinite Powers: How Calculus Reveals the Secrets of the Universe
-- Jun Competing Against Luck 
+- Jun Your Beauty Mark: The Ultimate Guide to Eccentric Glamour
 - Jul Destiny of the Republic
 - Aug 21 Lessons for the 21st Century
 - Sep Thinking Fast and Slow

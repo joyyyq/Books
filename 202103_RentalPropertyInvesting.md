@@ -14,7 +14,7 @@ Buy-Rehab-Rent-Refinance-Repeat
 ### Lender
 - A large national bank
 - A small community bank or credit union
-- A mortgage broker whol helps you find financing from umerous different lenders
+- A mortgage broker who helps you find financing from numerous different lenders
 - A mortgage company
 - A private or hard money lender with whom you build a relationship
 

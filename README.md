@@ -21,19 +21,19 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jun Computer Systems: A Programmer's Perspective half :white_check_mark:
 - Jul Clean Code: A Handbook of Agile Software Craftsmanship half :white_check_mark:
 - Aug A First Course to Probability :white_check_mark:
-- Sep Influence half :white_check_mark:
-- Oct Atomic Habits :white_check_mark:
-- Nov Hero of the Empire :white_check_mark:
+- Sep Atomic Habits :white_check_mark:
+- Oct Influence half :white_check_mark:
+- Nov Big Debt Crises :white_check_mark:
 - Dec Never Eat Alone :white_check_mark:
 
 2021 
-- Jan Big Debt Crises :white_check_mark:
+- Jan Hero of the Empire :white_check_mark:
 - Feb Competing Against Luck :white_check_mark:
 - Mar Rental Property Investing :white_check_mark:
 - Apr Mental Models
 - May Guns, Germs, and Steel
 - Jun Principles
-- Jul Learning from the Germans: Race and the Memory of Evil
+- Jul Being Mortal
 - Aug Titan: The Life of John D. Rockefeller, Sr.
 - Sep The Selfish Gene
 - Oct The Inevitable
@@ -52,7 +52,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Sep The Boys in the Boat
 - Oct Can't Hurt Me: Master Your Mind and Defy the Odds
 - Nov The Tiger
-- Dec Being Mortal
+- Dec Learning from the Germans: Race and the Memory of Evil
 
 2023
 - Jan Terror In the Mind of God

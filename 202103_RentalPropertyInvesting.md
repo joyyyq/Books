@@ -51,5 +51,14 @@ Buy-Rehab-Rent-Refinance-Repeat
     - Lawn care
     - Property Management
 
-## Chapter Twelve Real Estate Negotiation
+## Chapter 12 Real Estate Negotiation
 "In business as in life, you don't get what you deserve, you get what you negotiate." -- Chester L. Karrass
+
+Negociation is the art of staying steady in a turbulent situation. It's about making minor adjustments to the left, to the right, backward, and forward. It's about keeping calm when hope seems lost. It's about successfully handling the unforseen circumstances that hit you right in the face. 
+
+Although you may never safely crash-land an airliner onto the Hudson River, I elieve that you have -- that every person has -- the skills to become a great negociator. All you need are "small, regular deposits into the bank of experience, education, and training."
+
+## Chapter 13 Financing Your Rental Property
+### All Cash
+### Conventional Loans
+When a lender creates a mortgage for you, it's actually fairly likely that they will sell the loan. In fact, that's the primary job of most lenders: issue a bunch of mortgages, package them together with a big bow, and sell the load package so the lenders get their money back. The most likely buyer of these loan packages are the two government-sponsorder enterprises Fannie Mae and Freddie Mac, the nicknames given to the Federal National Mortgage Association (FNMA, or Fannie Mae) and the Federal Home Loan Mortgage Corporation (FHLMC, or Freddie Mac). The purpose of these huge pesudo government insttitutions is to buy up mortgages from lenders so the lenders can get their money back and can re-loan again.

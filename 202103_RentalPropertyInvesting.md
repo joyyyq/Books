@@ -50,3 +50,6 @@ Buy-Rehab-Rent-Refinance-Repeat
     - Snow removal
     - Lawn care
     - Property Management
+
+## Chapter Twelve Real Estate Negotiation
+"In business as in life, you don't get what you deserve, you get what you negotiate." -- Chester L. Karrass

@@ -1,6 +1,7 @@
 # Guns, Germs, and Steel
-
 Diamond, Jared. Guns, Germs, and Steel: The Fates of Human Societies (p. 6). W. W. Norton & Company. Kindle Edition. 
+
+My comment: In an attempt to explain divergence of human evolution history, Diamond argues that the gaps in power and technology between human societies originate primarily in environmental difference, instead of inherent genomes. I love this book not only because of the intriguing subject but also its methodologies. Diamond asks many deep questions and reveals many contra intuitive findings.
 
 ## Prologue Yali's Question
 The book’s emphasis is on the search for ultimate explanations, and on pushing back the chain of historical causation as far as possible.

@@ -33,16 +33,16 @@ The repo was set to be private at the start but later I decided to make it publi
 - Apr Mental Models
 - May Guns, Germs, and Steel
 - Jun Principles
-- Jul Being Mortal
+- Jul Pet Sematary :white_check_mark:
 - Aug Titan: The Life of John D. Rockefeller, Sr.
 - Sep The Selfish Gene
 - Oct The Inevitable
-- Nov The Changing World Order: Why Nations Succeed and Fail
+- Nov Being Mortal
 - Dec Andrew Carnegie
 
 2022
 - Jan The Plague
-- Feb Margaret Thatcher: From Grantham to the Falklands
+- Feb The Changing World Order: Why Nations Succeed and Fail
 - Mar My Early Life
 - Apr The Moon and Sixpence
 - May Intelligent Investor
@@ -61,7 +61,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Apr Ice Age 
 - May The Autobiography of Benjamin Franklin 
 - Jun Keeping At It: The Quest for Sound Money and Good Government
-- Jul When I Stop Talking, You'll Know I'm Dead
+- Jul Margaret Thatcher: From Grantham to the Falklands
 - Aug Margaret Thatcher: At Her Zenith: In London, Washington and Moscow 
 - Sep Margaret Thatcher: Herself Alone
 - Oct Thunderstruck
@@ -84,7 +84,7 @@ The repo was set to be private at the start but later I decided to make it publi
 
 2025
 - Jan Little Prince
-- Feb
+- Feb When I Stop Talking, You'll Know I'm Dead
 -
 
 Others

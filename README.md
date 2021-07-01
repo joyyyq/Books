@@ -30,7 +30,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jan Hero of the Empire :white_check_mark:
 - Feb Competing Against Luck :white_check_mark:
 - Mar Rental Property Investing :white_check_mark:
-- Apr Mental Models
+- Apr The Nurture Assumption: Why Children Turn Out the Way They Do :white_check_mark:
 - May Guns, Germs, and Steel
 - Jun Principles
 - Jul Pet Sematary :white_check_mark:
@@ -65,7 +65,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Aug Margaret Thatcher: At Her Zenith: In London, Washington and Moscow 
 - Sep Margaret Thatcher: Herself Alone
 - Oct Thunderstruck
-- Nov The Nurture Assumption: Why Children Turn Out the Way They Do
+- Nov Mental Models
 - Dec The Fifth Discipline: The Art & Practice of The Learning Organization
 
 2024

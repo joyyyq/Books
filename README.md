@@ -31,7 +31,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Feb Competing Against Luck :white_check_mark:
 - Mar Rental Property Investing :white_check_mark:
 - Apr The Nurture Assumption: Why Children Turn Out the Way They Do :white_check_mark:
-- May Guns, Germs, and Steel
+- May Guns, Germs, and Steel half :white_check_mark:
 - Jun Principles
 - Jul Pet Sematary :white_check_mark:
 - Aug Titan: The Life of John D. Rockefeller, Sr.
@@ -48,7 +48,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - May Intelligent Investor
 - Jun Becoming
 - Jul The Graven Palm
-- Aug City of Thieves
+- Aug What It Takes: Lessons in the Pursuit of Excellence
 - Sep The Boys in the Boat
 - Oct Can't Hurt Me: Master Your Mind and Defy the Odds
 - Nov The Tiger
@@ -79,13 +79,22 @@ The repo was set to be private at the start but later I decided to make it publi
 - Aug 21 Lessons for the 21st Century
 - Sep Thinking Fast and Slow
 - Oct 罗生门
-- Nov 人间词话
-- Dec 我是猫
+- Nov On Writing: A Memoir Of The Craft
+- Dec Inferno
 
 2025
 - Jan Little Prince
 - Feb When I Stop Talking, You'll Know I'm Dead
--
+- Mar City of Thieves
+- Apr A Minute to Midnight
+- May 我是猫
+- Jun 人间词话
+- Jul 
+- Aug
+- Sep
+- Oct
+- Nov
+- Dec
 
 Others
 - Kernighan & Ritchie "The C Programming Language"

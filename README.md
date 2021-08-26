@@ -34,7 +34,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - May Guns, Germs, and Steel half :white_check_mark:
 - Jun Principles
 - Jul Pet Sematary :white_check_mark:
-- Aug Titan: The Life of John D. Rockefeller, Sr.
+- Aug Grokking the System Design Interview half :white_check_mark:
 - Sep The Selfish Gene
 - Oct The Inevitable
 - Nov Being Mortal
@@ -46,7 +46,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Mar My Early Life
 - Apr The Moon and Sixpence
 - May Intelligent Investor
-- Jun Becoming
+- Jun Titan: The Life of John D. Rockefeller, Sr.
 - Jul The Graven Palm
 - Aug What It Takes: Lessons in the Pursuit of Excellence
 - Sep The Boys in the Boat
@@ -87,9 +87,9 @@ The repo was set to be private at the start but later I decided to make it publi
 - Feb When I Stop Talking, You'll Know I'm Dead
 - Mar City of Thieves
 - Apr A Minute to Midnight
-- May 我是猫
+- May Becoming
 - Jun 人间词话
-- Jul 
+- Jul 我是猫
 - Aug
 - Sep
 - Oct

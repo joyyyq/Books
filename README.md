@@ -38,7 +38,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Sep The Selfish Gene
 - Oct The Inevitable
 - Nov Being Mortal
-- Dec Andrew Carnegie
+- Dec Man's Search for Meaning :white_check_mark:
 
 2022
 - Jan The Plague
@@ -88,9 +88,9 @@ The repo was set to be private at the start but later I decided to make it publi
 - Mar City of Thieves
 - Apr A Minute to Midnight
 - May Becoming
-- Jun 人间词话
+- Jun Andrew Carnegie
 - Jul 我是猫
-- Aug
+- Aug 人间词话
 - Sep
 - Oct
 - Nov

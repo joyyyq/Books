@@ -10,6 +10,7 @@
 8. Envy/Jealousy Tendency
 9. Reciprocation Tendency
 10. Influence-from-Mere-Association Tendency
+The proper antidotes to being made such a patsy by past success are: 1) to carefully examine each past success, looking for accidental, noncausative factors associated with such success that will tend to mislead as one appraises odds implicit in a proposed new undertaking, and
 11. Simple, Pain-Avoiding Psychological Denial
 12. Excessive Self-Regard Tendency
 13. Overoptimism Tendency

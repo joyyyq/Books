@@ -1,4 +1,4 @@
-## Talk Eleven: The Psychology of Human Misjudgement 
+## Talk Eleven: The Psychology of Human Misjudgment 
 #### Selections from three of Charlie's talks, combined into one talk never made, after revisions by Charlie in 2005 that included considerable new material. 
 1. Reward and Punishment Superresponse Tendency
 2. Liking/Loving Tendency

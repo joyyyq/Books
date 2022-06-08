@@ -46,7 +46,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Mar My Early Life
 - Apr The Moon and Sixpence
 - May Intelligent Investor
-- Jun Titan: The Life of John D. Rockefeller, Sr.
+- Jun The Purpose Driven Life :white_check_mark:
 - Jul The Graven Palm
 - Aug What It Takes: Lessons in the Pursuit of Excellence
 - Sep The Boys in the Boat
@@ -91,7 +91,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jun Andrew Carnegie
 - Jul 我是猫
 - Aug 人间词话
-- Sep
+- Sep Titan: The Life of John D. Rockefeller, Sr.
 - Oct
 - Nov
 - Dec

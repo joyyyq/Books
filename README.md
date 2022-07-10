@@ -41,7 +41,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Dec Man's Search for Meaning :white_check_mark:
 
 2022
-- Jan The Plague
+- Jan The Stranger :white_check_mark:
 - Feb The Changing World Order: Why Nations Succeed and Fail
 - Mar My Early Life
 - Apr The Moon and Sixpence
@@ -92,7 +92,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jul 我是猫
 - Aug 人间词话
 - Sep Titan: The Life of John D. Rockefeller, Sr.
-- Oct
+- Oct The Plague
 - Nov
 - Dec
 

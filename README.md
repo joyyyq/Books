@@ -49,7 +49,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jun The Purpose Driven Life :white_check_mark:
 - Jul The Graven Palm
 - Aug What It Takes: Lessons in the Pursuit of Excellence
-- Sep The Boys in the Boat
+- Sep The Power of Now: A Guide to Spiritual Enlightment :white_check_mark:
 - Oct Can't Hurt Me: Master Your Mind and Defy the Odds
 - Nov The Tiger
 - Dec Learning from the Germans: Race and the Memory of Evil
@@ -93,7 +93,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Aug 人间词话
 - Sep Titan: The Life of John D. Rockefeller, Sr.
 - Oct The Plague
-- Nov
+- Nov The Boys in the Boat
 - Dec
 
 Others

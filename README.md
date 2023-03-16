@@ -55,9 +55,9 @@ The repo was set to be private at the start but later I decided to make it publi
 - Dec Learning from the Germans: Race and the Memory of Evil
 
 2023
-- Jan Terror In the Mind of God
-- Feb Born a Crime: Stories from a South African Childhood
-- Mar F.I.A.S.C.O.
+- Jan The Secret :white_check_mark:
+- Feb Why Marriages Succeed or Fail: And How You Can Make Yours Last :white_check_mark:
+- Mar Terror In the Mind of God
 - Apr Ice Age 
 - May The Autobiography of Benjamin Franklin 
 - Jun Keeping At It: The Quest for Sound Money and Good Government
@@ -94,7 +94,10 @@ The repo was set to be private at the start but later I decided to make it publi
 - Sep Titan: The Life of John D. Rockefeller, Sr.
 - Oct The Plague
 - Nov The Boys in the Boat
-- Dec
+- Dec Born a Crime: Stories from a South African Childhood
+
+2026
+- Jan F.I.A.S.C.O.
 
 Others
 - Kernighan & Ritchie "The C Programming Language"

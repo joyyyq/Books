@@ -59,9 +59,71 @@ To identify a big debt crisis before it occurs, I look at all the big markets an
 
 3. The Top
 This reflects a general principle: When things are so good that they can't get better -- yet everyone believes that they will get better -- tops of markets are being made.
+
+While tops are triggered by different events, most often they occur when the central bank starts to tighten and interest rates rise.
+
+A tightening of monetary policy in the currency in which debts are denominatd can be enough to cause foreign capital to pull back. This can happen for reasons unrelated to conditions in the domestic economy (e.g., cyclical conditiosn in a reservce currency counry leads to a tighening in liquidity in that currency, or a financial crisis results in a pullback of capital, etc.). Also, a rise in the currency the debt is in relative to the currency incomes are in can cause an especially servere squeeze. (TODO: revisit)
+
+The fastest rate of tightening typically comes about five months prior to the top of the stock market.
+
+The increase in short-term interest rates makes holding cash more attractive, and it raises the interest rate used to discount the future cash flows of assets, weakening riskier asset prices and slowing lending.
+
+To understand the magnitude of the downturn that is likely to occur, it is less important to understand each particular sector's sensitivity to tightening and how losses will cascade. These pictures are best seen by looking at each of the big players in these sectors rather than at economy-wide averages.
+
+In the immediate postbubble period, the wealth effect of asset price movements has a bigger impact on economic growth rates than monetary policy does. People tend to underestimate the size of this effect. In the early stages of a bubble bursting, when stock prices fall and earnings have not yet declined, people mistakenly judge the decline to be a buying opportunity and find stocks cheap in relation to both past earnings and expected earnings, failing to account for the amount of decline in earnings that is likely to result from what's to come. But the reversal is self-reinforcing. As wealth falls first and incomes fall later, creditworthiness worsens, which constrcits lending activity, which hurts spending and lowers investment rates while also making it less appealing to borrow to buy financial assets. This in turn worsens the fundamentals of the assest (e.g., the weaker economic activity leads corporate earnings to chronimcally disappoint), leading people to sell and driving down prices further. This has an accelerating downward impact on asset prices, income, and wealth.
+
+4. The "Depression" (the severe contraction phase)
+As the depression begins, debt defaults and restructurings hit the various players, especially leveraged lenders (3.g., banks), like an avalanche. Both lenders' and depositors' justified fears feed on themselves, leading to runs on financial institutions that typically don't have the cash to meet them unless they are under the umbrella of government protections.
+
+With investors unwilling to continue lending and borrowers scrambling to find cash to cover their debt payments, liquidity -- i.e., the ability to sell investments for money -- becomes a major concern. The central bank either has to provide the liquidity that's needed by printing more money or allow a lot of defaults.
+
+The depression can come from, or cause, either solvency problems or cash-flow problems. Usually a lot of both types of problems exist during this phase. A solvency problem means that, according to accounting and regulatory rules, the entity does not have enough equity capital to operate -- i.e., it is "broke" and must be shut down. So, the accounting laws have a big impact on the severity of the debt problem at this moment. A cash-flow problem means that an entity doesn't have enough cash to meet its needs, typically because its own lenders are taking money away from it -- i.e., there is a "run." A cash-flow problem can occur even when the entity has adequate capital because the equity is in illiquid assets. Lack of cash flow is an immediate and severe problem -- and as a result, the trigger and main issue of most debt crises.
+
+Related to this, if the central bank produces more money to alleviate the shortage, it will cheapen the value of money, making a reality of creditors' worries about being paid back an amount of money that is worth less than what they loaned.
+
+Most of what people think is money is really credit, and credit does appear aout of thin air during good times and then disappear at bad times.
+
+As this implies, a big part of the deleveraging process is people discovering that much of what they thought of as their wealth was merely people's promises to give them money.
+
+If the write-down is 30 percent, then the creditor’s assets are reduced by that much. If that sounds like a lot, it’s actually much more. Since most lenders are leveraged (e.g., they borrow to buy assets), the impact of a 30 percent write-down on their net worth can be much greater. For example, the creditor who is leveraged 2:1 would experience a 60 percent decline in his net worth (i.e., their assets are twice their net worth, so the decline in asset value has twice the impact). Since banks are typically leveraged about 12:1 or 15:1, that picture is obviously devastating for them and for the economy as a whole.
+
+#### Managing Depressions
+Ignorance and a lack of authority are bigger problems than debts themselves. While being a successful investment manager is hard, it's not nearly as hard as being a successful economic policy maker.
+
+##### Austerity
+##### "Printing Money" to Stop the Bleeding and Stimulate the Economy
+When risks emergethat systemically important institutions will fail, policy makers must take steps to keep these entities running. They must act immediately to:
+- Curtail panic and guarantee liabilities.
+- Provide liquidity.
+- Support the solvency of systemically important institutions.
+- Recapitalize/nationalize/cover losses of systemically important financial institutions.
+
+##### Debt Defaults/Restructurings
+The best-managed cases are those in which policy makers 
+- a. swiftly recognize the magnitude of the credit problems; 
+- b. don't save every institution that is expendable, balancing the benefits of allowing broke institutions to fail and be restructured with the risks that such failures can have detrimental effects on other creditworthy lenders and borrowers; 
+- c. create or restore robust credit pipes that allow for future borrowing by creditworthy borrowers; and 
+- d. ensure acceptable growth and inflation conditions while the bad debts are being worked out.
+
+There are relatively clear lines for which creditors receive protections:
+- Small depositors are given preference and experience minimal or no losses (in nearly every case).
+- In most cases when institutions fail, equity, subordinates debt, and large depositors absorb losses regardeless of whether the institution was systemically important or not. (TODO: revisit)
+- Sometimes policy makers prioritize domestic creditors over foreign creditors, especially when their loans are to private sector players and are lower down in the capital structure. 
+
+There are two main ways in which failed lenders' assets or existing lenders'bad assets are managed: They are either a. transferred to a seperate entity (an AMC) to manage the restructuring and asset disposal (about 40% of the cases studied) or b. they remain on the balance sheet of the original lending institution to manage (about 60% of cases). And there are several main levers for disposing of the nonperforming loans: a. restructuring (e.g., working out the loans through extended terms), b. debt-for-equity swaps and asset seizures, c. direct sales of the loans or assets to third parties, and d. securitizations.
+
+##### Redistributing Wealth
+Typically, increased taxation takes the form of greater income, property, and consumption taxes because these forms of taxation are the most effective at raising revenues. Wealth and inheritance taxes are somtimes also increased, though these typically raise very little money.
+
+5. The "Beautiful Deleveraging"
+A “beautiful deleveraging” happens when the four levers are moved in a balanced way so as to reduce intolerable shocks and produce positive growth with falling debt burdens and acceptable inflation.
+
+The best way of negating the deflationary depression is for the central bank to provide adequate liquidity and credit support, and, depending on different key entities’ needs for capital, for the central government to provide that too.
+
+The right amounts are those that a. neutralize what would otherwise be a deflationary credit market collapse and b. get the nominal growth rate marginally above the nominal interest rate to tolerably spread out the deleveraging process.
+
 #### Inflationary Depressions and Currency Crises
-If the write-down is 30 percent, then the creditor’s assets are reduced by that much. If that sounds like a lot, it’s actually much more. Since most lenders are leveraged (e.g., they
-borrow to buy assets), the impact of a 30 percent write-down on their net worth can be much greater. For example, the creditor who is leveraged 2:1 would experience a 60 percent decline in his net worth (i.e., their assets are twice their net worth, so the decline in asset value has twice the impact).7 Since banks are typically leveraged about 12:1 or 15:1, that picture is obviously devastating for them and for the economy as a whole.
+
 
 ## PART 2: Detailed Case Studies 
 ## PART 3: Compendium of 48 Case Studies 

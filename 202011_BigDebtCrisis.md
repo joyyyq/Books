@@ -122,6 +122,18 @@ The best way of negating the deflationary depression is for the central bank to 
 
 The right amounts are those that a. neutralize what would otherwise be a deflationary credit market collapse and b. get the nominal growth rate marginally above the nominal interest rate to tolerably spread out the deleveraging process.
 
+People ask if printing money will raise inflation. It won't if it offsets falling credit and the deflationary forces are balanced with this reflationary force. That's not a theory -- it's been repeatedly proven out in history. Remember, spending is what matters. A dollar of spending paid for with money has the same effect on prices as a dollar of spending paid for with credit. By "printing money," the central bank can make up for the disapperance of credit with an increase in the amount of money. This "printing" takes the form of central bank purchases of government securities and nongovernment assets such as corporate securities, equities, and other assets, which is reflected in money growing at an extremely fast rate at the same time as credit and real economic activity are contracting. What is happening at such times is that credit destruction is being offset by money creation. If the balance between replacing credit and actively stimulating the economy is right, this isn’t inflationary.
+
+But there is such a thing as abusice use of stimulants. The key is to avoid printing too much money.
+
+In the end, policy makers always print. That is because austerity causes more pain than benefit, big restructurings wipe out too much wealth too fast, and transfers of wealth from haves to have-nots don't happen in sufficient size without revolutions. Also, printing money is not inflationary if the size and character of the money creation offsets the size and character of the credit contraction. It is simply negating deflation.
+
+6. "Pushing on a String"
+- Monetary Policy 1 
+Interest-rate driven monetary policy (which I’ll call Monetary Policy 1) is the most effective because it has the broadest impact on the economy.
+- Monetary Policy 2 
+“Quantitative easing” (QE) as it is now called (i.e., “printing money” and buying financial assets, typically debt assets), is Monetary Policy 2.
+
 #### Inflationary Depressions and Currency Crises
 
 

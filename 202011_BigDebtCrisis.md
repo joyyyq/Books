@@ -133,7 +133,13 @@ In the end, policy makers always print. That is because austerity causes more pa
 Interest-rate driven monetary policy (which I’ll call Monetary Policy 1) is the most effective because it has the broadest impact on the economy.
 - Monetary Policy 2 
 “Quantitative easing” (QE) as it is now called (i.e., “printing money” and buying financial assets, typically debt assets), is Monetary Policy 2.
-
+- Monetary Policy 3 
+Monetary Policy 3 puts money more directly into the hands of spenders instead of investors/savers and incentivizes them to spend it.
+    - An increase in debt-financed fiscal spending.
+    - Increase in debt-financed fiscal spending, where the Treasury isn't on the hook for the debt
+    - Not bothering to go through issuring debt, and instead giving newly printed money directly to the government to spend
+    - Printing money and doing direct cash transfers to households (i.e., "helicopter money").
+    - Big debt write-down accompanied by big money creation.
 #### Inflationary Depressions and Currency Crises
 
 

@@ -1,6 +1,7 @@
 # Big Debt Crisis 
 Dalio, Ray. Big Debt Crises (p. 22). Bridgewater. Kindle Edition. 
 ## PART 1: The Archetypal Big Debt Cycle 
+
 ### How I Think about Credit and Debt
 Credit is the giving of buying power. This buying power is granted in exchange for a promise to pay it back, which is debt.
 
@@ -140,9 +141,18 @@ Monetary Policy 3 puts money more directly into the hands of spenders instead of
     - Not bothering to go through issuring debt, and instead giving newly printed money directly to the government to spend
     - Printing money and doing direct cash transfers to households (i.e., "helicopter money").
     - Big debt write-down accompanied by big money creation.
-#### Inflationary Depressions and Currency Crises
 
+7. Normalization
 
+### Inflationary Depressions and Currency Crises
+If a currency falls in relation to another currency at a rate that is greater than the currency's interest rate, the holder of the debt in the weakening currency will lose money. If investors expect that weakness to continue without being compensated with higher interest rates, a dangerous currency dynamic will develop.
+
+The currency dynamic is what produces inflationary depressions.
+
+For now, suffice it to say that in times when money is flowing out of a currency, real interest rates need to rise less if real exchange rates fall more (and vise versa).
+
+### The Phases of the Classic Inflationary Debt Cycle
+1. 
 ## PART 2: Detailed Case Studies 
 ## PART 3: Compendium of 48 Case Studies 
 

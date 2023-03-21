@@ -152,7 +152,32 @@ The currency dynamic is what produces inflationary depressions.
 For now, suffice it to say that in times when money is flowing out of a currency, real interest rates need to rise less if real exchange rates fall more (and vise versa).
 
 ### The Phases of the Classic Inflationary Debt Cycle
-1. 
+1. The Early Part of the Cycle
+Capital flows -- both within countries and among them -- are typically the most important flows to watch because they are the most volatile.
+
+Foreign-exchange reserves are like savings: They can be used to bridge imbalances between the amount of currency demanded and the amount supplied by the free market in order tocushion the movements of the currency markets. They can also be used to purchase assets that might be desirable investments or offer strategic returns. The process of accumulating reserves is stimulative to the economy because it lessens the upward pressure on their own currency, which allows a country to maintain stronger export competitiveness and puts more money in the economy. Since central banks need to create more money to buy the foreign currency, doing that increases the amount of domestic currency funds to either buy assets (causing asset prices to rise) or lend out.
+
+At this juncture, the currency's total return will be attractive because either a. those who want to buy what the country has to offer need to sell their own currency and buy the local currency or b. the central bank will increase the supply of its own currency and sell it for the foreign currency, which will make the country's assets go up when measured in its own currency. So, during this time when a country has a favorable balance of payments, there is a net inflow of money that leads to the currency appreciating and/or the foreign-exchange reserves increasing. This influx of money stimulates the economy and causes that country's markets to rise. Those invested in the country make money from the currency return (through a combination of currency price changes and asset return differences) and/or the asset appreciation. The more the currency appreciates, the less assets will appreciate.
+
+2. The Bubble
+
+During this stage, growth is increasingly financed by debt rather than productivity gains, and the country typically becomes highly reliant on foreign financing. This shows up in foreign currency denomiated debt rising.
+
+During the bubble, the gap between the country's income and its spending widens. The country requires an increasing inflow of capital to drive continued growth in spending. But levels of economic activity cna remain strong at the top of the cycle only as long as continued inflows, motivated by expectations of continued high growth, drive up asset prices and cause the currency to strengthen further. At this point, the country is increasingly fragile and even a minor event can trigger a reversal.
+
+3. The Top and Currency Defense
+
+This spiral sends the country into a balance of payments crisis and an inflationary depression.
+
+Though worsening trade balances typically play a role (usually because of high currency level and excessive domestic consumption that led to high imports), adverse shifts in capital flows are usually more important.
+
+There is a critical relationship between a. the interest rate difference and b. the spot/forward currency relationship.
+
+Said differently, a managed currency decline accompanied by falling reserves causes the market to expect continued future currency depreciation, which pushes up domestic interest rates (as describe above), acting as a tightening at a time when the economy is already weak. Also, the expectation of continued devaluation will encourage increased capital withdrawals and devaluation speculation, widening the balance of payments gap and forcing the central bank to spend down more reserves to defend the currency (or abandon the planned gradual depreciation). Also, a currency defense by spending reservces will have to stop because no sensible policy maker will want to run out of such "savings." In such currency defenses, policy makers -- especially those defending a peg -- will typically make boldly confident statements vowing to stop the currency from weakening. All of these things classically happen just before the cycle moves to its next stage, which is letting the currency go.
+
+4. The Depression (Often When the Currency Is Let Go)
+
+Currency declines allow countries to offer price cuts to the rest of the world (helping to bring in more business) without producing domestic deflation.
 ## PART 2: Detailed Case Studies 
 ## PART 3: Compendium of 48 Case Studies 
 

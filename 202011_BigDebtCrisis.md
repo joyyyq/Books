@@ -178,6 +178,24 @@ Said differently, a managed currency decline accompanied by falling reserves cau
 4. The Depression (Often When the Currency Is Let Go)
 
 Currency declines allow countries to offer price cuts to the rest of the world (helping to bring in more business) without producing domestic deflation.
+
+5. Normalization
+
+While this balance is partially made via trade adjustments, it is typically more determined by capital flows, so it primarily comes when the central bank succeeds in making it desireable to hold the currency again, and secondarily when spending and imports have fallen sufficiently to bring about an adjustment in the balance of payments.
+
+While most people, including most policy makers, think that the bets thing they can do is defend the currency during the currency defense phase, actually the opposite is true, becaue a currency level a. that is good for the trade balance, b. that produces a positive total return, and that c. has an interest rate that is appropriate for domestic conditions, is a low one.
+
+As explained earlier, the best way to bring that about is to let the currency depreciate sharply and quickly. In other words, the best way to ensure that investors expect positive total returns going forward at a relatively low real interest rate (which is what the weak domestic conditions need) is to depreciate the currency enough.11 Both the balance
+
+##### The Spiral from a More Transitory Inflationary Depression to Hyperinflation
+The most important characteristic of cases that spiral into hyperinflations is that policy makers don't close the imbalance between external income, external spending, and debt service, and keep funding external spending over sustained periods of time by printing lots of money. In some cases, it's not voluntary.
+
+As stated earlier, contrary to popular belief, it's not as easy to stop printing money during a crisis. Stopping printing when capital is flowing out can cause an extreme tightness of liquidity and often a deep economic contraction. And the longer the crisis goes on, the harder it becomes to stop printing money.
+
+###### How the Spiral Plays Out
+With each round of printing, more of the printed money is transferred to real or foreign assets instead of being spent on goods and services that fuel economic activity.
+
+Because much of the country's debt is denominated in a foreign currency, debt burdens rise when the currency falls, which requires spending cuts and asset sales.
 ## PART 2: Detailed Case Studies 
 ## PART 3: Compendium of 48 Case Studies 
 

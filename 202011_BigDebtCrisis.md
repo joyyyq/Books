@@ -196,6 +196,15 @@ As stated earlier, contrary to popular belief, it's not as easy to stop printing
 With each round of printing, more of the printed money is transferred to real or foreign assets instead of being spent on goods and services that fuel economic activity.
 
 Because much of the country's debt is denominated in a foreign currency, debt burdens rise when the currency falls, which requires spending cuts and asset sales.
+
+Foreign lenders just care about the rate of change in the currency relative to the interest rate change. (TODO) So for policy makers hoping to stabilize the balance of payments, inflation is a secondary consideration compared to ensuring that there are positive expected returns for saving in that currency. They have to get the currency cheap enough so that it, with the desired interest rate, will produce a positive return.
+
+a. Cooperative-competitive relationships
+b. Mutually threatening relationships
+
+When investors hold a lot of promises to deliver currency (i.e., a lot of debt denominated in a currency) and the supply of that currency is tied to something that backs it, the ability of the central bank to produce currency is limited. (TODO)
+
+
 ## PART 2: Detailed Case Studies 
 ## PART 3: Compendium of 48 Case Studies 
 

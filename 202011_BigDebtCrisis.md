@@ -212,6 +212,9 @@ When investors hold a lot of promises to deliver currency (i.e., a lot of debt d
 
 Classically, in a balance of payments crisis, interest rate increases large enough to adequately compensate holders of debt in weak currency for the currency risk are way too large to be tolerated by the domestic economy, so they don't work. (TODO)
 
+By the way, politicians and policy makers frequently make disingenuous promises that are expedient and inconsistent with economic and market fundamentals, and such promises should never be believed.
+
+Within two weeks of leaving the gold peg, the Federal Reserve was able to decrease its liquidity injections; short-term rates decreased by one percent to two percent, bankers' acceptance rates dropped back to two percent, and call loan rates decreased to three percent. The money suuply increased by 1.5 percent over the next three months, and the Dow as up by almost 100 percent over the next four months. These moves ended the depression on a dime. (TODO)
 ### US Debt Crisis and Adjustment (2007-2011)
 
 ## PART 3: Compendium of 48 Case Studies 

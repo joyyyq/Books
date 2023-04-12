@@ -204,8 +204,16 @@ b. Mutually threatening relationships
 
 When investors hold a lot of promises to deliver currency (i.e., a lot of debt denominated in a currency) and the supply of that currency is tied to something that backs it, the ability of the central bank to produce currency is limited. (TODO)
 
+## PART 2: Detailed Case Studies
 
-## PART 2: Detailed Case Studies 
+### German Debt Crisis and Hyperinflation (1918-1924)
+
+### US Debt Crisis and Adjustment (1928-1937)
+
+Classically, in a balance of payments crisis, interest rate increases large enough to adequately compensate holders of debt in weak currency for the currency risk are way too large to be tolerated by the domestic economy, so they don't work. (TODO)
+
+### US Debt Crisis and Adjustment (2007-2011)
+
 ## PART 3: Compendium of 48 Case Studies 
 
 

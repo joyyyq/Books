@@ -215,7 +215,20 @@ Classically, in a balance of payments crisis, interest rate increases large enou
 By the way, politicians and policy makers frequently make disingenuous promises that are expedient and inconsistent with economic and market fundamentals, and such promises should never be believed.
 
 Within two weeks of leaving the gold peg, the Federal Reserve was able to decrease its liquidity injections; short-term rates decreased by one percent to two percent, bankers' acceptance rates dropped back to two percent, and call loan rates decreased to three percent. The money suuply increased by 1.5 percent over the next three months, and the Dow as up by almost 100 percent over the next four months. These moves ended the depression on a dime. (TODO)
+
 ### US Debt Crisis and Adjustment (2007-2011)
+
+During the bubble, there were five key components that helped fuel leveraging outside the traditional banking system:
+1. Use of repo agreements and commercial paper.
+2. Large institutional depositors outside the protected banking system.
+3. Development of money market funds, a short-term savings vehicle which promoised higher returns than bank accounts without much additional risk.
+4. Globalization of dollar lending, leading to the explosion of dollar borrowing and lending outside of US banks.
+5. Securitization of lending, where banks take their traditional loans (auto loans, home loans, etc.) and sell them to other investors.
+
+Borrowers and lenders had severe asset/liability mismatches, which left them especially vulnerable in a downturn. This is a classic ingredeint of a severe debt crisis. Most commonly these mismatches come in the following forms:
+1. Borrowing short-term and lending long-term, leaving them to be squeezed when those who lent to them short-term don't want to lend to them anymore or only want to lend to them at interest rates much higher than what they are earning on the loans they have already made.
+2. Lending to risky borrowers who will pay higher interest rates than they borrowed at in order to collect the credit spread -- until the default rates pick up to a level greater than the credit spread.
+3. Borrowing in one currency and lending/investing in another. When the currency they borrowed in rises, it forces borrowers to pay back the loan at a higher exchange rate or a higher interest rate than they can manage.
 
 ## PART 3: Compendium of 48 Case Studies 
 

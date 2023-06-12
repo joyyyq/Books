@@ -51,7 +51,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Aug What It Takes: Lessons in the Pursuit of Excellence
 - Sep The Power of Now: A Guide to Spiritual Enlightment :white_check_mark:
 - Oct Can't Hurt Me: Master Your Mind and Defy the Odds
-- Nov The Tiger
+- Nov The Federal Reserve and the Financial Crisis :white_check_mark:
 - Dec Learning from the Germans: Race and the Memory of Evil
 
 2023
@@ -98,6 +98,7 @@ The repo was set to be private at the start but later I decided to make it publi
 
 2026
 - Jan F.I.A.S.C.O.
+- Feb The Tiger
 
 Others
 - Kernighan & Ritchie "The C Programming Language"

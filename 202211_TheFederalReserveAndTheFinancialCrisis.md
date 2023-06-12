@@ -1,4 +1,10 @@
 # The Federal Reserve and the Financial Crisis
+## Lecture 1 Origins and Mission of the Federal Reserve 
+The two basic missions of a central bank. The first is maintaining macroeconomic stability: maintaining stable growth and keeping inflation low and stable. The principal policy tool for maintaining macroeconomic stability is monetary policy. In normal times, the Fed and other central banks use open market operations -- purchases and sales of securities in markets -- to move interest rates up or down, and in doing so try to create a more stable macroeconomic environment.
 
-## Gold standard
+The second part of a central bank's mission is maintaining financial stability. Central banks are focuesd on trying to ensure that the financial system functions properly, and in particular, they want to prevent, if possible, and if not, to mitigate the effects of a financial crisis or a financial panic. I talked last time about the lender of last resort function, the notion that in a financial panic, a central bank should follow Baghot's rule of lending freelly against good collateral at a penalty rate, and by providing short-term credit to financial institutions, a central bank can halt or reduce a run or a panic and the accompanying damage to the financial system and the economy.
+
+## Lecture 2 The Federal Reserve after World War II
+
+### Gold standard
 So in the modern world, commitment to the gold stabdard would mean swearing that under no circumstances, no matter how bad unemployment got, would we do anything about it using monetary policy. And if investors had 1 percent doubt that we would follow that promise, then they would have an incentive to bring their cash and tak out gold, and it would be a self-fulfilling prophecy. We had seen that problem with various kinds of fixed exchange rates that have come under attack during the financial crisis. 

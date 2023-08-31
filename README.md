@@ -45,7 +45,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Feb The Changing World Order: Why Nations Succeed and Fail
 - Mar My Early Life
 - Apr The Moon and Sixpence
-- May Intelligent Investor half :white_check_mark:
+- May Intelligent Investor :white_check_mark:
 - Jun The Purpose Driven Life :white_check_mark:
 - Jul The Graven Palm
 - Aug What It Takes: Lessons in the Pursuit of Excellence

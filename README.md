@@ -45,7 +45,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Feb The Changing World Order: Why Nations Succeed and Fail
 - Mar My Early Life
 - Apr The Moon and Sixpence
-- May Intelligent Investor half :white_check_mark:
+- May Intelligent Investor :white_check_mark:
 - Jun The Purpose Driven Life :white_check_mark:
 - Jul The Graven Palm
 - Aug What It Takes: Lessons in the Pursuit of Excellence
@@ -76,7 +76,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - May Infinite Powers: How Calculus Reveals the Secrets of the Universe
 - Jun Your Beauty Mark: The Ultimate Guide to Eccentric Glamour
 - Jul Destiny of the Republic
-- Aug 21 Lessons for the 21st Century
+- Aug Emotional Unavailability :white_check_mark:
 - Sep Thinking Fast and Slow
 - Oct 罗生门
 - Nov On Writing: A Memoir Of The Craft

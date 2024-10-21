@@ -177,7 +177,7 @@ At this juncture, the currency's total return will be attractive because either 
 
 During this stage, growth is increasingly financed by debt rather than productivity gains, and the country typically becomes highly reliant on foreign financing. This shows up in foreign currency denomiated debt rising.
 
-During the bubble, the gap between the country's income and its spending widens. The country requires an increasing inflow of capital to drive continued growth in spending. But levels of economic activity cna remain strong at the top of the cycle only as long as continued inflows, motivated by expectations of continued high growth, drive up asset prices and cause the currency to strengthen further. At this point, the country is increasingly fragile and even a minor event can trigger a reversal.
+During the bubble, the gap between the country's income and its spending widens. The country requires an increasing inflow of capital to drive continued growth in spending. But levels of economic activity can remain strong at the top of the cycle only as long as continued inflows, motivated by expectations of continued high growth, drive up asset prices and cause the currency to strengthen further. At this point, the country is increasingly fragile and even a minor event can trigger a reversal.
 
 3. The Top and Currency Defense
 
@@ -197,7 +197,7 @@ Currency declines allow countries to offer price cuts to the rest of the world (
 
 While this balance is partially made via trade adjustments, it is typically more determined by capital flows, so it primarily comes when the central bank succeeds in making it desireable to hold the currency again, and secondarily when spending and imports have fallen sufficiently to bring about an adjustment in the balance of payments.
 
-While most people, including most policy makers, think that the bets thing they can do is defend the currency during the currency defense phase, actually the opposite is true, becaue a currency level a. that is good for the trade balance, b. that produces a positive total return, and that c. has an interest rate that is appropriate for domestic conditions, is a low one.
+While most people, including most policy makers, think that the best thing they can do is defend the currency during the currency defense phase, actually the opposite is true, because a currency level a. that is good for the trade balance, b. that produces a positive total return, and that c. has an interest rate that is appropriate for domestic conditions, is a low one.
 
 As explained earlier, the best way to bring that about is to let the currency depreciate sharply and quickly. In other words, the best way to ensure that investors expect positive total returns going forward at a relatively low real interest rate (which is what the weak domestic conditions need) is to depreciate the currency enough.11 Both the balance
 
@@ -228,7 +228,7 @@ Classically, in a balance of payments crisis, interest rate increases large enou
 
 By the way, politicians and policy makers frequently make disingenuous promises that are expedient and inconsistent with economic and market fundamentals, and such promises should never be believed.
 
-Within two weeks of leaving the gold peg, the Federal Reserve was able to decrease its liquidity injections; short-term rates decreased by one percent to two percent, bankers' acceptance rates dropped back to two percent, and call loan rates decreased to three percent. The money suuply increased by 1.5 percent over the next three months, and the Dow as up by almost 100 percent over the next four months. These moves ended the depression on a dime. (TODO)
+Within two weeks of leaving the gold peg, the Federal Reserve was able to decrease its liquidity injections; short-term rates decreased by one percent to two percent, bankers' acceptance rates dropped back to two percent, and call loan rates decreased to three percent. The money supply increased by 1.5 percent over the next three months, and the Dow as up by almost 100 percent over the next four months. These moves ended the depression on a dime. (TODO)
 
 ### US Debt Crisis and Adjustment (2007-2011)
 

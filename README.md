@@ -44,7 +44,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jan The Stranger :white_check_mark:
 - Feb The Changing World Order: Why Nations Succeed and Fail
 - Mar My Early Life
-- Apr The Moon and Sixpence
+- Apr The Moon and Sixpence :white_check_mark:
 - May Intelligent Investor :white_check_mark:
 - Jun The Purpose Driven Life :white_check_mark:
 - Jul The Graven Palm

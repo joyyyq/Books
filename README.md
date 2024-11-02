@@ -32,7 +32,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Mar Rental Property Investing :white_check_mark:
 - Apr The Nurture Assumption: Why Children Turn Out the Way They Do :white_check_mark:
 - May Guns, Germs, and Steel half :white_check_mark:
-- Jun Principles
+- Jun Principles half :white_check_mark:
 - Jul Pet Sematary :white_check_mark:
 - Aug Grokking the System Design Interview half :white_check_mark:
 - Sep The Selfish Gene
@@ -78,7 +78,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jul Destiny of the Republic
 - Aug Emotional Unavailability :white_check_mark:
 - Sep Thinking Fast and Slow
-- Oct 罗生门
+- Oct Animal Farm :white_check_mark:
 - Nov On Writing: A Memoir Of The Craft
 - Dec Inferno
 
@@ -99,6 +99,7 @@ The repo was set to be private at the start but later I decided to make it publi
 2026
 - Jan F.I.A.S.C.O.
 - Feb The Tiger
+- March 罗生门
 
 Others
 - Kernighan & Ritchie "The C Programming Language"

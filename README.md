@@ -72,7 +72,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jan The Birth of Tragedy
 - Feb Why We Sleep 
 - Mar Daring Greatly 
-- Apr Dark Money
+- Apr Educated :white_check_mark:
 - May Infinite Powers: How Calculus Reveals the Secrets of the Universe
 - Jun Your Beauty Mark: The Ultimate Guide to Eccentric Glamour
 - Jul Destiny of the Republic
@@ -99,7 +99,8 @@ The repo was set to be private at the start but later I decided to make it publi
 2026
 - Jan F.I.A.S.C.O.
 - Feb The Tiger
-- March 罗生门
+- Mar 罗生门
+- Apr Dark Money
 
 Others
 - Kernighan & Ritchie "The C Programming Language"

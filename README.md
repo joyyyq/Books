@@ -80,7 +80,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Sep Thinking Fast and Slow
 - Oct Animal Farm :white_check_mark:
 - Nov On Writing: A Memoir Of The Craft
-- Dec Inferno
+- Dec 断舍离 :white_check_mark:
 
 2025
 - Jan Little Prince
@@ -101,6 +101,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Feb The Tiger
 - Mar 罗生门
 - Apr Dark Money
+- May Inferno
 
 Others
 - Kernighan & Ritchie "The C Programming Language"

@@ -79,7 +79,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Aug Emotional Unavailability :white_check_mark:
 - Sep Thinking Fast and Slow
 - Oct Animal Farm :white_check_mark:
-- Nov On Writing: A Memoir Of The Craft
+- Nov 去遇见 :white_check_mark:
 - Dec 断舍离 :white_check_mark:
 
 2025
@@ -102,6 +102,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Mar 罗生门
 - Apr Dark Money
 - May Inferno
+- Jun On Writing: A Memoir Of The Craft
 
 Others
 - Kernighan & Ritchie "The C Programming Language"

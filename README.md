@@ -77,17 +77,17 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jun Your Beauty Mark: The Ultimate Guide to Eccentric Glamour
 - Jul Destiny of the Republic
 - Aug Emotional Unavailability :white_check_mark:
-- Sep Thinking Fast and Slow
+- Sep Nonviolent Communication
 - Oct Animal Farm :white_check_mark:
 - Nov 去遇见 :white_check_mark:
 - Dec 断舍离 :white_check_mark:
 
 2025
-- Jan Little Prince
+- Jan Counselling For Toads: A Psychological Adventure
 - Feb When I Stop Talking, You'll Know I'm Dead
 - Mar City of Thieves
 - Apr A Minute to Midnight
-- May Becoming
+- May Little Prince
 - Jun Andrew Carnegie
 - Jul 我是猫
 - Aug 人间词话
@@ -103,6 +103,8 @@ The repo was set to be private at the start but later I decided to make it publi
 - Apr Dark Money
 - May Inferno
 - Jun On Writing: A Memoir Of The Craft
+- July Becoming
+- Aug Thinking Fast and Slow
 
 Others
 - Kernighan & Ritchie "The C Programming Language"

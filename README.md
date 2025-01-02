@@ -77,7 +77,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jun Your Beauty Mark: The Ultimate Guide to Eccentric Glamour
 - Jul Destiny of the Republic
 - Aug Emotional Unavailability :white_check_mark:
-- Sep Nonviolent Communication
+- Sep Nonviolent Communication :white_check_mark:
 - Oct Animal Farm :white_check_mark:
 - Nov 去遇见 :white_check_mark:
 - Dec 断舍离 :white_check_mark:

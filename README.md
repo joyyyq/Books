@@ -83,7 +83,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Dec 断舍离 :white_check_mark:
 
 2025
-- Jan Counselling For Toads: A Psychological Adventure
+- Jan Counselling For Toads: A Psychological Adventure :white_check_mark:
 - Feb When I Stop Talking, You'll Know I'm Dead
 - Mar City of Thieves
 - Apr A Minute to Midnight

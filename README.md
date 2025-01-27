@@ -84,7 +84,7 @@ The repo was set to be private at the start but later I decided to make it publi
 
 2025
 - Jan Counselling For Toads: A Psychological Adventure :white_check_mark:
-- Feb When I Stop Talking, You'll Know I'm Dead
+- Feb 躲在蚊子后面的大象 :white_check_mark:
 - Mar City of Thieves
 - Apr A Minute to Midnight
 - May Little Prince
@@ -105,6 +105,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jun On Writing: A Memoir Of The Craft
 - July Becoming
 - Aug Thinking Fast and Slow
+- Sep When I Stop Talking, You'll Know I'm Dead
 
 Others
 - Kernighan & Ritchie "The C Programming Language"

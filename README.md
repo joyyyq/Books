@@ -85,8 +85,8 @@ The repo was set to be private at the start but later I decided to make it publi
 2025
 - Jan Counselling For Toads: A Psychological Adventure :white_check_mark:
 - Feb 躲在蚊子后面的大象 :white_check_mark:
-- Mar City of Thieves
-- Apr A Minute to Midnight
+- Mar 把日子过明白 :white_check_mark:
+- Apr 职场不是自助餐 哪能只挑你要的 half :white_check_mark:
 - May Little Prince
 - Jun Andrew Carnegie
 - Jul 我是猫
@@ -106,6 +106,8 @@ The repo was set to be private at the start but later I decided to make it publi
 - July Becoming
 - Aug Thinking Fast and Slow
 - Sep When I Stop Talking, You'll Know I'm Dead
+- Oct City of Thieves
+- Nov A Minute to Midnight
 
 Others
 - Kernighan & Ritchie "The C Programming Language"

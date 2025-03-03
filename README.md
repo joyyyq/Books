@@ -86,7 +86,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jan Counselling For Toads: A Psychological Adventure :white_check_mark:
 - Feb 躲在蚊子后面的大象 :white_check_mark:
 - Mar 把日子过明白 :white_check_mark:
-- Apr 职场不是自助餐 哪能只挑你要的 half :white_check_mark:
+- Apr 职场不是自助餐 哪能只挑你要的 :white_check_mark:
 - May Little Prince
 - Jun Andrew Carnegie
 - Jul 我是猫

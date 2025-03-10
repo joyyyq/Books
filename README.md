@@ -75,7 +75,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Apr Educated :white_check_mark:
 - May Infinite Powers: How Calculus Reveals the Secrets of the Universe
 - Jun Your Beauty Mark: The Ultimate Guide to Eccentric Glamour
-- Jul Destiny of the Republic
+- Jul 把自己当回事儿 :white_check_mark:
 - Aug Emotional Unavailability :white_check_mark:
 - Sep Nonviolent Communication :white_check_mark:
 - Oct Animal Farm :white_check_mark:
@@ -108,6 +108,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Sep When I Stop Talking, You'll Know I'm Dead
 - Oct City of Thieves
 - Nov A Minute to Midnight
+- Dec Destiny of the Republic
 
 Others
 - Kernighan & Ritchie "The C Programming Language"

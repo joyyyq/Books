@@ -87,7 +87,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Feb 躲在蚊子后面的大象 :white_check_mark:
 - Mar 把日子过明白 :white_check_mark:
 - Apr 职场不是自助餐 哪能只挑你要的 :white_check_mark:
-- May Little Prince
+- May 通透
 - Jun Andrew Carnegie
 - Jul 我是猫
 - Aug 人间词话
@@ -105,7 +105,7 @@ The repo was set to be private at the start but later I decided to make it publi
 - Jun On Writing: A Memoir Of The Craft
 - July Becoming
 - Aug Thinking Fast and Slow
-- Sep When I Stop Talking, You'll Know I'm Dead
+- Sep Little Prince
 - Oct City of Thieves
 - Nov A Minute to Midnight
 - Dec Destiny of the Republic
